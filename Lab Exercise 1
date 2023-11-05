@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CV - Junior Engineer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+
+</head>
+<body>
+  
+ 
+    <h1>Abhinav Dwarakanath</h1>
+    <h2>Junior Engineering Student</h2>
+
+    <h2>Education</h2>
+    <p>Bachelor of Technology, Computer Science</p>
+    <p>Shiv Nadar University - Chennai</p>
+    <p>Year of Graduation: 2025</p>
+
+    <h2>Skills</h2>
+    <ul>
+      <li>Programming languages: Python, Java, C</li>
+      <li>Web development: HTML, CSS, JavaScript</li>
+      <li>Internet of Things (IoT)</li>
+      <li>Data analysis and visualization</li>
+      <li>Problem-solving and critical thinking</li>
+      <li>Canva Designing</li>
+    </ul>
+
+    <h2>Experience</h2>
+    <p>Jr Recruitment officer, Pelatis Consulting</p>
+    <p>Date: 04/2022 - 06/2022</p>
+    <p>Cretive Designer, Pelatis Consulting</p>
+    <p>Date: 04/2023 - 07/2023</p>
+    <ul>
+
+    </ul>
+
+    <h2>Projects</h2>
+    <p>"Study Buddy"</p>
+    <ul>
+      <li>Designed and implemented a web browser extension to help with vertical tab organisation</li>
+      
+    </ul>
+
+    <h2>Passions and Activities</h2>
+    <ul>
+      <li>Founder and Leader of the Quiz club of
+        SNUC-Cognition</li>
+      <li>Badminton, Formula 1</li>
+      
+    </ul>
+
+    <h2>Languages</h2>
+    <ul>
+      <li>English</li>
+      <li>Tamil</li>
+    </ul>
+</body>
+</html>
+
+
+
+ 
