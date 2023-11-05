@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABHINAV'S RESUME</title>
+    <link rel="stylesheet" href="cv2.css"> <!-- Assuming the CSS file is in the same directory -->
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="leftcontainer">
+            <div class="mainheading">
+                <div class="logo">
+                    <!-- Image source path updated for web compatibility, ensure the image is accessible at the given path -->
+
+                    <h2> Abhinav Dwarakanath</h2>
+                    <br>
+                    <h4 style="color:bisque;">STUDENT AT SHIV NADAR UNIVERSITY CHENNAI</h4>
+                </div>
+
+            </div>
+            <!-- Personal details updated -->
+            <div class="details">
+                <h3 class="title"> Personal details :</h3>
+                <br>
+                <h4>DOB-13/12/2003</h4>
+                <ul>
+                    <li>
+                        <h4>☎ 9941749999</h4>
+                    </li>
+                    <li>
+                        <h4>📧 abhinav2003.d@gmail.com</h4>
+                    </li>
+                    <li>
+                        <h4>📍 Chennai, India</h4><br>
+                        <h4> www.linkedin.com/in/Abhinav Dwarakanath</h4>
+                    </li>
+                </ul>
+
+            </div>
+            <!-- Languages section -->
+            <h3 style="color: darkorange;" class="title"> Languages :</h3>
+            <br>
+            <h4> English</h4><br>
+            <h4>Tamil</h4><br>
+
+
+        </div>
+        <div class="rightcontainer">
+
+            <div class="education">
+                <h3 class="title">About :</h3>
+                <h5> I am Abhinav Dwarakanath, an undergraduate student at Shiv Nadar University Chennai, pursuing a passion for front-end development and data analytics.</h5><br>
+
+            </div>
+
+            <br>
+
+            <h2> Education:</h2><br>
+            <br>
+            <h3> PSBB KKN</h3>
+            <h5 style="color:rgb(90, 88, 86);"> 10th-93% 12th-96%</h5>
+            <br>
+            <h3> Shiv Nadar University Chennai</h3>
+            <h5> B.Tech CSE IoT 2021-2025</h5>
+
+            <br>
+
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>
